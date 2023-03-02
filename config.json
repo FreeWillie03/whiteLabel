@@ -1,0 +1,13 @@
+{
+    "baseUrl": "https://api.gpsiot.net",
+    "testBench": {
+        "username": "j5hkLbI0y7Miq7uS9fQJ9J0l9X3rf2b4ec48",
+        "password": "ft9zONoFBAZCtm1CGEGJ67mX",
+        "token": {
+            "token_type": "Bearer",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJSR1ZCL2c9PSIsImp0aSI6ImEwMmEzZjU3LTIwNDQtNDI5Yi05ZjU1LWFmZGI4YjBhYjc2NSIsImV4cCI6MTY3NDAzNjIxOSwiaXNzIjoiaHR0cDovL2RvdG5ldGRldGFpbC5uZXQiLCJhdWQiOiJodHRwOi8vZG90bmV0ZGV0YWlsLm5ldCJ9.eFBXHoVoj5z0lLxQGhQqDV4jCpFvaorfvWEVCTqZDjs",
+            "expires_in": 7200,
+            "expiration": "2023-01-18T10:03:39Z"
+          }
+    }
+}
